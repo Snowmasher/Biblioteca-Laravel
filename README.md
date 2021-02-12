@@ -4,6 +4,9 @@
 Para poder ejecutar este proyecto necesitarás Laravel8.
 
 El primer paso será hacer 'git clone' del proyecto.
+```
+https://github.com/Snowmasher/Biblioteca-Laravel.git
+```
 
 Una vez tengamos el proyecto en el equipo deberemos abrir una terminal en la carpeta 'biblioteca-laravel'.
 
