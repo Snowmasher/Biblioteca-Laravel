@@ -16,7 +16,7 @@ Usaremos composer:
 composer install
 ```
 
-Como siguiente paso debemos crear una base de datos (Yo uso MySQL y la base de datos llamada laravel) para nuestro proyecto y modificar el archivo '.env'
+Como siguiente paso debemos crear una base de datos (Yo uso MySQL y la base de datos llamada laravel) para nuestro proyecto y modificar el archivo '.env' con en nombre de la base de datos, del usuario y su contraseña (el usuario debe tener permisos sobre la base de datos):
 
 ```
 DB_CONNECTION=mysql
